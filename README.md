@@ -2,7 +2,7 @@
 
 🔗 &nbsp;**Banner**
 
-<img src="https://i.ibb.co/CWn3X5X/Blue-Modern-World-Health-Day-Banner.png" alt="cover" height="298" width="798">
+<img src="https://i.ibb.co/VQwGgFg/Banner-Github.png" alt="cover" height="298" width="850">
 
 <br >
 <img src="https://komarev.com/ghpvc/?username=cessargarcia13&style=flat-square&color=blue" alt="Profile Views" align="left"/>
